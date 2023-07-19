@@ -1,4 +1,4 @@
-currentDir = "suryank vishwakarma"
+currentDir = "suryank vishwakarma jabalpur"
 def appEnvs = ["dev","prod","itg"]
 properties([pipelineTriggers([githubPush()])])
 pipeline{
