@@ -1,4 +1,4 @@
-currentDir = "src"
+currentDir = "suryank"
 def appEnvs = ["dev","prod","itg"]
 properties([pipelineTriggers([githubPush()])])
 pipeline{
